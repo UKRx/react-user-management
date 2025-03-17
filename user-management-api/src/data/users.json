@@ -1,0 +1,26 @@
+[
+  {
+    "id": "1",
+    "firstName": "Somsak",
+    "lastName": "Deemak",
+    "gender": "Male",
+    "birthDate": "2000-06-13",
+    "image": null
+  },
+  {
+    "id": "2",
+    "firstName": "Manee",
+    "lastName": "DeeDee",
+    "gender": "Female",
+    "birthDate": "2001-01-21",
+    "image": null
+  },
+  {
+    "id": "552ae4f4-b8ff-4385-b6c5-3eea5f07a9df",
+    "firstName": "1",
+    "lastName": "2",
+    "gender": "Female",
+    "birthDate": "2025-03-05",
+    "image": "image-1742190685639-761310658.jpg"
+  }
+]
